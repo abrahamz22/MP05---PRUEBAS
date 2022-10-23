@@ -50,9 +50,9 @@ public class Program {
 
 		in.close();
 
-		System.out.printf("\nThe area is: %.2f", (area(radi));
+System.out.println("\nThe area is: %.2f metros" , area(radi));
 
-		System.out.printf("\nThe perimeter is: %.2f", perimeter(radi));
+System.out.println("\nThe perimeter is: %.2f metros" , perimeter(radi));
 
 	}
 }
